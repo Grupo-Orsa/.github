@@ -12,15 +12,6 @@ Ofrecemos una amplia gama de servicios especializados, incluyendo:
 - Ecosistema Tecnológico: Diseñado para construir gobiernos confiables, transparentes y cercanos a las necesidades ciudadanas, con soluciones en nómina, recursos humanos, planeación financiera y atención ciudadana.
 - Servicios por Afiliación: Programas innovadores que ofrecen beneficios exclusivos como paquetes vacacionales, servicios de salud y asesorías profesionales en marketing, contaduría y más.
 
-## Nuestros Valores
-En Grupo ORSA, nos guiamos por los siguientes valores fundamentales:
-
-- Lealtad: Cumplimos nuestras promesas, generando confianza con nuestros clientes y colaboradores.
-- Compromiso: Alcanzamos nuestras metas con responsabilidad y excelencia.
-- Respeto: Valoramos la diversidad y tratamos a todos con consideración.
-- Creatividad: Buscamos soluciones innovadoras para desafíos complejos.
-- Alegría: Fomentamos un ambiente positivo y motivador en todo lo que hacemos.
-
 ## Proyectos y Repositorios
 Nuestros repositorios en GitHub incluyen proyectos relacionados con:
 
